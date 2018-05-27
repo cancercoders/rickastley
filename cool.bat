@@ -1,8 +1,8 @@
 @Echo off
 color 17
 echo                                                                                                              WINDOWS %random%
-echo                                                                                              windowns has bad to end due to an unexpected error
-echo                                                                                                       memory dump will now commence
+echo                                                                                              Windows has had to end due to an unexpected error
+echo                                                                                                       memory dump will now commence.
 ping 1.1.1.1 -n 1 -w 5000>nul
 for /l %%A in (100, -1 0) do (
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
