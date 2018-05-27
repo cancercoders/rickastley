@@ -3,6 +3,7 @@ color 17
 echo                                                                                                              WINDOWS %random%
 echo                                                                                              Windows has had to end due to an unexpected error
 echo                                                                                                       memory dump will now commence.
+start call "images.bat"
 ping 1.1.1.1 -n 1 -w 5000>nul
 for /l %%A in (100, -1 0) do (
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
