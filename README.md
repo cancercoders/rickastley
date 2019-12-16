@@ -1,5 +1,5 @@
 # rickastley
-how to piss off your friends
+thing that they made and is garbage and problay made with a macbook pro
 
 This will:
 1. Play a Midi of Rick Astley's Never Gonna Give You Up
