@@ -7,7 +7,6 @@ This will:
 3. Probably crash your computer in the long run
 ```
 By
-MrCorbie
 Varanox
 cartridgetilt888
 ```
